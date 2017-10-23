@@ -8,6 +8,7 @@ vector <string> Census;
 void Census2017(){
   // Census.push_back("Name @ GitHub link");
   Census.push_back("Allen Comp Sci @ https://github.com/AllenCompSci");
+  Census.push_back("Mr. Hudson @ https://github.com/theshrewedshrew");
   
 }
 
