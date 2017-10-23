@@ -2,14 +2,20 @@
 <p align="center">
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
+
 # Allen Computer Science Hackathon 2017
+
 ## [Hacktoberfest Checker Site](https://hacktoberfestchecker.herokuapp.com/)
 
 Hacktoberfest Allen Texas Census. Easy to Do! . https://AllenCompSci.github.io/Hacktoberfest
 
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
+
+---
 * https://github.com/Cutwell/Hacktoberfest-Census (Census concept and original build sourced from Cutwell)
 * https://github.com/Nguyen17/Hacktoberfest-Sign-In (Sign-In concept and original build sourced from Nguyen17)
+---
+
 ## Many thanks for concepts, builds and ideas.
 
 This census has a live webpage [here](https://allencompsci.github.io/Hacktoberfest), it's automatically updated every time a PR is accepted!
