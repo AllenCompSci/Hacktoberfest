@@ -8,6 +8,7 @@ class HelloWorld{
         Census = new ArrayList<String>();
         // Census.add("NAME @ github link");
         Census.add("Allen Comp Sci @ https://github.com/AllenCompSci");
+        Census.add("Mr. Hudson @ https://github.com/theshrewedshrew");
         
     }
     
