@@ -59,6 +59,23 @@ br {
   background-color: #008cba;
   color: #fff;
 }
+.repo-link1  {
+	color: #000;
+	background-color: #fff;
+	text-align: center;
+	font-size: 2em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	width: 10em;
+  height: 1em;
+}
+.repo-link1:hover {
+  text-decoration: none;
+  background-color: #008cba;
+  color: #fff;
+}
 .census-title {
   font-size: 2.3em;
   padding: 1em;
