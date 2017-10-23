@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-->![Allen Computer Science Hackathon 2017](static/img/site/GreyBlue.png)<-
+-> ![Allen Computer Science Hackathon 2017](static/img/site/GreyBlue.png) <-
 
 Hacktoberfest Allen Texas Census. Easy to Do! . https://AllenCompSci.github.io/Hacktoberfest
 
