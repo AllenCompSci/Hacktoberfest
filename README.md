@@ -12,8 +12,10 @@ Hacktoberfest Allen Texas Census. Easy to Do! . https://AllenCompSci.github.io/H
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
 
 ---
+```markdown
 * https://github.com/Cutwell/Hacktoberfest-Census (Census concept and original build sourced from Cutwell)
 * https://github.com/Nguyen17/Hacktoberfest-Sign-In (Sign-In concept and original build sourced from Nguyen17)
+```
 ---
 
 ## Many thanks for concepts, builds and ideas.
