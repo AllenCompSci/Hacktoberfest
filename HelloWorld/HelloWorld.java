@@ -3,7 +3,7 @@ import java.util.*;
 
 class HelloWorld{
     private static ArrayList<String> Census;
-    //get free shirt
+    
     private static void CensusTaker(){
         Census = new ArrayList<String>();
         // Census.add("NAME @ github link");
