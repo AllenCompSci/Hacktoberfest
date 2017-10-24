@@ -66,5 +66,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [BKNNYY](https://github.com/BKNNYY)
  - [Kodaskool](https://github.com/Kodaskool)
  - [MasterAndrewJ](https://github.com/MasterAndrewJ)
- - [PeteDelkus](https://github.com/PeteDelkus)
- - [John Nguyen](https://github.com/jawnlovesfreestuff)
+ - [RogueNinja410](https://github.com/RogueNinja410])
+
