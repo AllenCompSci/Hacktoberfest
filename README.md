@@ -58,7 +58,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [spicyboi](https://github.com/spicyboi)
  - [Rahultheman12](https://github.com/Rahultheman12)
  - [eyeofkenku](https://github.com/eyeofkenku)
-  -[CosmeT17](https://github.com/CosmeT17)
+ - [CosmeT17](https://github.com/CosmeT17)
  - [Ryan King](https://github.com/KingZethor)
  - [incisivebox](https://github.com/incisivebox)
  - [ryan v](https://github.com/oopsies)
