@@ -14,6 +14,7 @@ void Census2017(){
   Census.push_back("hotdogshabab @ https://github.com/hotdogshabab");
   Census.push_back("alansunglee @ https://github.com/alansunglee");
   Census.push_back("Rahultheman12 @ https://github.com/Rahultheman12");
+  Census.push_back("spicyboi @ https://github.com/spicyboi");
 
 }
 
