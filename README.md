@@ -40,6 +40,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [TexasSnow](https://github.com/TexasSnow)
  - [TannerMay](https://github.com/TannerMay)
  - [Justin Schrader](https://github.com/justinschrader)
+ - [Kevinjblanchard](https://github.com/kevinjblanchard)
  - [Daniel Yahalom](https://github.com/Dancraft1)
  - [Deadpan-insanity](https://github.com/Deadpan-insanity)
  - [Law04](https://github.com/Law04)
@@ -48,3 +49,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Ben Fontenot](https://github.com/BenDFontenot)
  - [Shabab Haque](https://github.com/hotdogshabab)
  - [Steven Romero](https://github.com/St3ven16)
+
