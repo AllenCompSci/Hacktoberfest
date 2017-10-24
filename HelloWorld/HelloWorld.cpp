@@ -16,8 +16,8 @@ void Census2017(){
   Census.push_back("Rahultheman12 @ https://github.com/Rahultheman12");
   Census.push_back("spicyboi @ https://github.com/spicyboi");
   Census.push_back("John Nguyen @ https://github.com/jawnlovesfreestuff");
-  Census.push_back("Devin Petersen @ https://github.com/DevinPetersen");
   Census.push_back("Cameron Mathis @ https://github.com/Phylux");
+  Census.push_back("Samuel Woon @ https://github.com/samuel-w")
 
 }
 
