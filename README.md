@@ -62,4 +62,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Ryan King](https://github.com/KingZethor)
  - [incisivebox](https://github.com/incisivebox)
  - [BKNNYY](https://github.com/BKNNYY)
-
+ - [Kodaskool](https://github.com/Kodaskool)
+ - [MasterAndrewJ](https://github.com/MasterAndrewJ)
