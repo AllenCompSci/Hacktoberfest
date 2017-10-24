@@ -23,7 +23,6 @@ void Census2017(){
 
 
 }
-
 void printCensus(){
   for(int i = 0; i < (int)Census.size(); i++){
     cout << "Hello World from "Your name" + Census[i] << "\n";
