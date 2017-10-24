@@ -12,7 +12,7 @@ void Census2017(){
   Census.push_back("BEST Team 58 @ https://github.com/BESTTeam58");
   Census.push_back("TexasSnow @ https://github.com/TexasSnow");
   Census.push_back("hotdogshabab @ https://github.com/hotdogshabab");
-  Census.push_back("hotdogshabab @ https://github.com/hotdogshabab");
+  Census.push_back("alansunglee @ https://github.com/alansunglee");
 }
 
 void printCensus(){
