@@ -12,9 +12,18 @@ class HelloWorld{
         Census.add("Rahultheman12 @ https://github.com/Rahultheman12");
         Census.add("John Nguyen @ https://github.com/jawnlovesfreestuff");
         Census.add("Carson Mires @ https://github.com/carsonmires");
-    }public static void main(String args[]){
+        Census.add("YourFriendlyNeighborhoodSpiderman @ https://github.com/YourFriendlyNeighborhoodSpiderman");
+        Census.add("Devin Petersen @ https://github.com/DevinPetersen");
+        Census.add("Cameron Mathis @ https://github.com/Phylux");
+        Census.add("Zak Ishak @ https://github.com/zakishak"); // Tried to delete other users as a pull request
+    }
+   
+    public static void main(String args[]){
+
       CensusTaker();
       for(String list : Census){
           System.out.println("Hello World from " + list);      
-      }}}
-/* work on your spacing
+      }
+    }
+}
+
