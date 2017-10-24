@@ -76,4 +76,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PeteDelkus](https://github.com/PeteDelkus)
  - [John Nguyen](https://github.com/jawnlovesfreestuff)
  - [carsonmires](https://github.com/carsonmires)
- -[mshughesshirt](https://github.com/mshughesshirt)
+ - [mshughesshirt](https://github.com/mshughesshirt)
