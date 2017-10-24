@@ -16,7 +16,7 @@ class HelloWorld{
         Census.add("Carson Mires @ https://github.com/carsonmires");
         Census.add("Cameron Mathis @ https://github.com/Phylux"
     }
-    
+   
     public static void main(String args[]){
       CensusTaker();
       for(String list : Census){
