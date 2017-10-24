@@ -76,6 +76,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Cameron Mathis](https://github.com/Phylux)
  - [DevinPetersen](https://github.com/DevinPetersen)
  - [CodeTimesTen](https://github.com/CodeTimesTen)
+ - [Kakoure](https://github.com/Kakoure)
  - [KaushikMalapati](https://github.com/KaushikMalapati)
  - [Lennongrad](https://github.com/lennongrad)
  - [Samuel Woon](https://github.com/samuel-w)
+
