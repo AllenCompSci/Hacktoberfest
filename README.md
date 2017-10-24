@@ -61,4 +61,5 @@ Fork this project and add your username + profile link to the [Census](https://g
   -[CosmeT17](https://github.com/CosmeT17)
  - [Ryan King](https://github.com/KingZethor)
  - [incisivebox](https://github.com/incisivebox)
+ - [ryansucks](https://github.com/ryansucks)
 
