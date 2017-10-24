@@ -10,7 +10,7 @@
 Hacktoberfest Allen Texas Census. Easy to Do! . https://AllenCompSci.github.io/Hacktoberfest
 
 A census of those participating in Hacktoberfest 2017 (and an easy PR!)
-free shirt
+
 ---
 ```markdown
 * https://github.com/Cutwell/Hacktoberfest-Census (Census concept and original build sourced from Cutwell)
@@ -71,7 +71,10 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PeteDelkus](https://github.com/PeteDelkus)
  - [John Nguyen](https://github.com/jawnlovesfreestuff)
  - [carsonmires](https://github.com/carsonmires)
+ - [mshughesshirt](https://github.com/mshughesshirt)
  - [Cameron Mathis](https://github.com/Phylux)
  - [DevinPetersen](https://github.com/DevinPetersen)
  - [CodeTimesTen](https://github.com/CodeTimesTen)
  - [Lennongrad](https://github.com/lennongrad)
+ - [Samuel Woon](https://github.com/samuel-w)
+
