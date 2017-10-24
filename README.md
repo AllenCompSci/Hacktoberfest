@@ -54,3 +54,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Xintus](https://github.com/Xintus)
  - [Papadou0710](https://github.com/Papadou0710)
  - [Louis Yang](https://github.com/louiscyang)
+ - [spicyboi](https://github.com/spicyboi)
+ - [Rahultheman12](https://github.com/Rahultheman12)
