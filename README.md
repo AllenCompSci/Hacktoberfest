@@ -83,6 +83,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [BMayUSA](https://github.com/BMayUSA)
  - [Viltaria](https://github.com/Viltaria)
  - [TheTota](https://github.com/TheTota)
+ - [UltraSive](https://github.com/UltraSive)
+ - [Sumadhwa13](https://github.com/Sumadhwa13)
  - [NikhilGoyle](https://github.com/NikhilGoyle)
  - [Blueward12](https://github.com/Blueward12)
  - [kangoroo115](https://github.com/kangoroo115)
