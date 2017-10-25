@@ -41,9 +41,10 @@ _Fergalicious_ = ["Four tres two uno", "", "[Will.i.am:] : Listen up y'all 'caus
 "To the D to the E to the L I C I O U S", "To the D to the E to the L I C I O U S", "To the D to the E to the L I C I O U S",
 "To the D to the E to the to the to the to the to the" ]
 
-_USERNAME_ = ["RogueNinja410", "bingood4ever", "JustinV10"] 
-_DISPLAY_ = ["Teh Rogue", "bingood4ever", "Justin Van Nimwegen"]
 
+_USERNAME_ = ["RogueNinja410", "Maze-Camel", "bingood4ever", "JustinV10"] 
+
+_DISPLAY_ = ["Teh Rogue", "Maaz Kamal", "bingood4ever", "Justin Van Nimwegen"]
 
 
 print("Hello From : ")
