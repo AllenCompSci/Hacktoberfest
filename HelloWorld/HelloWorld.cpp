@@ -20,8 +20,10 @@ void Census2017(){
   Census.push_back("YourFriendlyNeighborhoodSpiderman @ https://github.com/YourFriendlyNeighborhoodSpiderman");
   Census.push_back("Devin Petersen @ https://github.com/DevinPetersen");
   Census.push_back("Cameron Mathis @ https://github.com/Phylux");
-  Census.push_back("Samuel Woon @ https://github.com/samuel-w");
+  Census.push_back("Samuel Woon @ https://github.com/samuel-w")
+  Census.push_back("bingood4ever @ https://github.com/bingood4ever");
   Census.push_back("Gainz101 @ https://github.com/Gainz101");
+
 
 
 }
