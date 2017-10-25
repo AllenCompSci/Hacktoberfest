@@ -99,6 +99,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Abhi1432](https://github.com/Abhi1432)
  - [jacobhemphill02](https://github.com/jacobhemphill02)
  - [UltraSive](https://github.com/UltraSive)
+ - [ColinDurocher](https://gihub.com/colindurocher)
  - [LoganSmith2](https://github.com/LoganSmith2)
  - [sriv72](https://github.com/sriv72)
  - [teaser303](https://github.com/teaser303)
