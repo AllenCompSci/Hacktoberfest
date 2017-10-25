@@ -82,4 +82,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Samuel Woon](https://github.com/samuel-w)
  - [BMayUSA](https://github.com/BMayUSA)
  - [Viltaria](https://github.com/Viltaria)
+ - [TheTota](https://github.com/TheTota)
 
