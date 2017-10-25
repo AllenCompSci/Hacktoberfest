@@ -85,4 +85,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [TheTota](https://github.com/TheTota)
  - [jacobhemphill02](https://github.com/jacobhemphill02)
  - [UltraSive](https://github.com/UltraSive)
+    - [LoganSmith2](https://github.com/LoganSmith2)
 
