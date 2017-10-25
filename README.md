@@ -1,5 +1,5 @@
 # Hacktoberfest
-<p align="center">
+<p align="center"> 
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
 
@@ -83,4 +83,16 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [BMayUSA](https://github.com/BMayUSA)
  - [Viltaria](https://github.com/Viltaria)
  - [TheTota](https://github.com/TheTota)
+ - [Jose-Marquez](https://github.com/Jose-Marquez)
+ - [234082](https://github.com/234082)
+ - [Anthony Luong](https://github.com/ayejayL)
+ - [kadenak](https://github.com/kadenak)
+ - [JeremyAllen0](https://github.com/JeremyAllen0)
+ - [ConCougar](https://github.com/ConCougar)
+ - [Abhi1432](https://github.com/Abhi1432)
+ - [jacobhemphill02](https://github.com/jacobhemphill02)
+ - [UltraSive](https://github.com/UltraSive)
+
+
+
 
