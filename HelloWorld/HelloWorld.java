@@ -16,7 +16,7 @@ class HelloWorld{
         Census.add("YourFriendlyNeighborhoodSpiderman @ https://github.com/YourFriendlyNeighborhoodSpiderman");
         Census.add("Devin Petersen @ https://github.com/DevinPetersen");
         Census.add("Kaushik Malapati@ https://github.com/KaushikMalapati")
-        Census.add("Zak Ishak @ https://github.com/zakishak"); // Tried to delete other users as a pull request
+        Census.add("kyleaustin36 @ https://github.com/kyleaustin36"); // Tried to delete other users as a pull request
 
     }
    
