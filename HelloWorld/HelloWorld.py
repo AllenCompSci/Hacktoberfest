@@ -40,8 +40,8 @@ _Fergalicious_ = ["Four tres two uno", "", "[Will.i.am:] : Listen up y'all 'caus
 "T to the A to the S T E Y girl you're tasty.", "T to the A to the to the to the to the", "(four tres two uno)", "",
 "To the D to the E to the L I C I O U S", "To the D to the E to the L I C I O U S", "To the D to the E to the L I C I O U S",
 "To the D to the E to the to the to the to the to the" ]
-_USERNAME_ = ["RogueNinja410"]
-_DISPLAY_ = ["Teh Rogue"]
+_USERNAME_ = ["RogueNinja410","Gainz101"]
+_DISPLAY_ = ["Teh Rogue","Gainz101"]
 
 print("Hello From : ")
 for i in range(len(_USERNAME_)):
