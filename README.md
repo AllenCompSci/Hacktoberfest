@@ -1,5 +1,5 @@
 # Hacktoberfest
-<p align="center">
+<p align="center"> 
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
 
