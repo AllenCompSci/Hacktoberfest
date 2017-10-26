@@ -2,6 +2,7 @@
 #include <stdlib.h> /* abs */
 #include <string> /*string */
 
+
 void trimStr(std::string&);
 void placeHandler(std::string& , std::string&);
 void sign(std::string&);
@@ -15,6 +16,7 @@ std::string MULTI(std::string, std::string);
 std::string MOD(std::string, std::string);
 std::string gcd(std::string, std::string);
 
+bool isNeg(std::string);
 bool isLessThan(std::string, std::string);
 bool isEqualTo(std::string, std::string);
 bool isGreaterThan(std::string, std::string);
