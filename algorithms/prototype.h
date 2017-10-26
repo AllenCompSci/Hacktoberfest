@@ -4,6 +4,7 @@
 
 
 void trimStr(std::string&);
+void trimAbsStr(std::string&);
 void placeHandler(std::string& , std::string&);
 void sign(std::string&);
 int cmprLen(std::string, std::string);
