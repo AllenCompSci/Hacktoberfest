@@ -1,15 +1,28 @@
 #include "prototype.h"
 
 void trimStr(std::string& x){
- bool isNeg = ((int)x.length() > 0) && x[0] == '-';
- if(isNeg) 
-   x = x.substr(1);
- while((int)x.length() > 0 && x[0] == '0') 
-  x = x.substr(1);
- if(isNeg && x!= "0")
+ bool neg = isNeg(x);
+ if(neg) 
+   sign(x);
+ else
+   trimAbsStr(x);
+ if(neg && x!= "0")
    x = '-' + x;
 }
+
+void trimAbsStr(std::string& x){
+ while((int)x.length() > 0 && x[0] == '0') 
+  x = x.substr(1);
+}
 void sign(std::string& x){
+ if(isNeg(x)){
+  x = x.substr(1);
+  trimAbsStr();
+ }
+ else{
+  trimAbsStr();
+  x = "-" + x;
+ }
  
 }
 
