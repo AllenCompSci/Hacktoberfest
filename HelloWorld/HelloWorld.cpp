@@ -46,6 +46,7 @@ It's the final countdown
 It's the final countdown
 Oh
 It's the final countdown, yeah
+*/
 void Census2017(){
   // Census.push_back("Name @ GitHub link");
   Census.push_back("Allen Comp Sci @ https://github.com/AllenCompSci");
@@ -68,7 +69,7 @@ void Census2017(){
   Census.push_back("bingood4ever @ https://github.com/bingood4ever");
   Census.push_back("Gainz101 @ https://github.com/Gainz101");
   Census.push_back("zachdogg @ https://github.com/Zachdogg1");
-*/
+
 
 
 }
