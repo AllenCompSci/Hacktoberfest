@@ -2,6 +2,7 @@
 #include <string>
 
 void trimStr(std::string&);
+void placeHandler(std::string& , std::string&);
 
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
