@@ -12,6 +12,7 @@ void sign(std::string&);
 void sign(std::string&, std::string&);
 int cmprLen(std::string, std::string);
 
+std::string abs(std::string);
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
 std::string DIVIDE(std::string, std::string);
