@@ -10,6 +10,11 @@ void trimStr(std::string& x){
         x = '-' + x;
 }
 
+void trimStr(std::string& x, std::string& y){
+    trimStr(x);
+    trimStr(y);
+}
+
 void trimAbsStr(std::string& x){
     while((int)x.length() > 0 && x[0] == '0') 
         x = x.substr(1);
@@ -26,8 +31,7 @@ void sign(std::string& x){
 }
 
 void placeHandler(std::string& x, std::string& y){
-    trimStr(x);
-    trimStr(y);
+    trimStr(x, y);
     bool x_isNeg = isNeg(x);
     bool y_isNeg = isNeg(y);
     if(x_isNeg)
@@ -63,8 +67,12 @@ std::string MOD(std::string, std::string){
   
 }
 std::string gcd(std::string x, std::string y){
-    trimStr(x);
-    trimStr(y);
+    trimStr(x,y);
+    if(isEqualTo(y, "0")){
+        return x;
+    }
+    else
+        return gcd(y, MOD(x,y));
 }
 
 bool isLessThan(std::string x, std::string y){
