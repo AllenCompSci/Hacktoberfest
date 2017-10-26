@@ -2,6 +2,7 @@
 #include <stdlib.h> /* abs */
 #include <string> /* string */
 #include <vector> /* vector */
+#include <stdarg.h> /* va_list, va_start, va_arg, va_end */
 
 
 void trimStr(std::string&);
@@ -13,6 +14,7 @@ void sign(std::string&, std::string&);
 int cmprLen(std::string, std::string);
 
 std::string abs(std::string);
+std::string ADD(std::string, ...);
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
 std::string DIVIDE(std::string, std::string);
