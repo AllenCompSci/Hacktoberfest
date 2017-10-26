@@ -1,4 +1,11 @@
 #include "prototype.h"
+#include "main"
+
+int main(){
+    cout << "#Hacktoberfest" << endl;
+    cout << "#Itwillneverend" << endl;
+    cout << "#Hackeverythinginsight" << endl;
+}
 
 void trimStr(std::string& x){
     bool neg = isNeg(x);
