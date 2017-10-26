@@ -85,7 +85,7 @@ bool isLessThan(std::string x, std::string y){
       return false;
     }
   }
-  else if((int)x.length() < (int)y.length()){
+  else if(cmprLen(x,y)<1){
        return true;
   }
   return false;
@@ -94,8 +94,8 @@ bool isEqualTo(std::string x, std::string y){
     return x == y;
 }
 bool isGreaterThan(std::string, std::string){
-  return !isEqualtTo(x,y) && !isLessThan(x,y);
+    return !isEqualtTo(x,y) && !isLessThan(x,y);
 }
 bool isNeg(std::string x){
- return ((int)x.length() > 0) && x[0] == '-'; 
+    return ((int)x.length() > 0) && x[0] == '-'; 
 }
