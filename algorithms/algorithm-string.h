@@ -1,5 +1,15 @@
 #include "prototype.h"
 
+void trimStr(std::string x){
+ bool isNeg = ((int)x.length() > 0) && x[0] == '-';
+ if(isNeg) 
+   x = x.substr(1);
+ while((int)x.length() > 0 && x[0] == '0') 
+  x = x.substr(1);
+ if(isNeg && x!= "0")
+   x = '-' + x;
+}
+
 std::string ADD(std::string, std::string){
   
 }
@@ -16,7 +26,8 @@ std::string MOD(std::string, std::string){
   
 }
 std::string gcd(std::string x, std::string y){
-  
+  trimStr(x);
+  trimStr(y);
 }
 
 bool isLessThan(std::string x, std::string y){
