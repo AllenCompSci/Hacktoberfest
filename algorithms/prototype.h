@@ -1,6 +1,7 @@
 #include <iostream> /* cout cin */
 #include <stdlib.h> /* abs */
-#include <string> /*string */
+#include <string> /* string */
+#include <vector> /* vector */
 
 
 void trimStr(std::string&);
@@ -9,7 +10,6 @@ void trimAbsStr(std::string&);
 void placeHandler(std::string& , std::string&);
 void sign(std::string&);
 int cmprLen(std::string, std::string);
-
 
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
@@ -20,6 +20,8 @@ std::string MOD(std::string, std::string);
 std::string gcd(std::string, std::string);
 
 bool isNeg(std::string);
+bool isEven(std::string);
+bool isOdd(std::string);
 bool isLessThan(std::string, std::string);
 bool isEqualTo(std::string, std::string);
 bool isGreaterThan(std::string, std::string);
