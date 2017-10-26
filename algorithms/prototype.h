@@ -1,5 +1,6 @@
-#include <iostream>
-#include <string>
+#include <iostream> /* cout cin */
+#include <stdlib.h> /* abs */
+#include <string> /*string */
 
 void trimStr(std::string&);
 void placeHandler(std::string& , std::string&);
