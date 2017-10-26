@@ -9,7 +9,9 @@ void trimStr(std::string& x){
  if(isNeg && x!= "0")
    x = '-' + x;
 }
-
+void sign(std::string& x){
+ 
+}
 
 void placeHandler(std::string& x, std::string& y){
  trimStr(x);
@@ -20,12 +22,13 @@ void placeHandler(std::string& x, std::string& y){
   x = x.substr(1);
  if(y_isNeg)
   y = y.substr(1);
- while((int)x.length() < (int)y.length()){
-  x = "0" + x;
- }
- while((int)x.length() > (int)y.length()){
-  y = "0" + y;
- }
+ while(cmprLen(x,y) != 0){
+  if(cmprLen(x,y) < 1){
+   x = "0" + x;
+  }
+  else{
+   y = "0" + y;
+  }
 }
 
 int cmprLen(std::string x, std::string y){
@@ -83,4 +86,7 @@ bool isEqualTo(std::string x, std::string y){
 }
 bool isGreaterThan(std::string, std::string){
   return !isEqualtTo(x,y) && !isLessThan(x,y);
+}
+bool isNeg(std::string x){
+ return ((int)x.length() > 0) && x[0] == '-'; 
 }
