@@ -1,10 +1,51 @@
-#include <iostream>
+the #include <iostream>
 #include <string>
 #include <vector>
 
 using namespace std;
 vector <string> Census;
 
+/*We're leaving together,
+But still it's farewell
+And maybe we'll come back
+To earth, who can tell?
+I guess there is no one to blame
+We're leaving ground (leaving ground)
+Will things ever be the same again?
+
+It's the final countdown
+The final countdown
+
+Oh
+
+We're heading for Venus (Venus)
+And still we stand tall
+'Cause maybe they've seen us (seen us)
+And welcome us all, yeah
+With so many light years to go
+And things to be found (to be found)
+I'm sure that we'll all miss her so
+
+It's the final countdown
+The final countdown
+The final countdown
+The final countdown
+Oh
+
+The final countdown,oh
+It's the final count down
+The final countdown
+The final countdown
+The final countdown
+Oh
+It's the final count down
+We're leaving together
+The final count down
+We'll all miss her so
+It's the final countdown
+It's the final countdown
+Oh
+It's the final countdown, yeah
 void Census2017(){
   // Census.push_back("Name @ GitHub link");
   Census.push_back("Allen Comp Sci @ https://github.com/AllenCompSci");
@@ -27,7 +68,7 @@ void Census2017(){
   Census.push_back("bingood4ever @ https://github.com/bingood4ever");
   Census.push_back("Gainz101 @ https://github.com/Gainz101");
   Census.push_back("zachdogg @ https://github.com/Zachdogg1");
-  Census.push_back("Johnathan G. @ https://github.com/SodaCan0515");
+*/
 
 
 }
