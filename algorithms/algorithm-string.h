@@ -63,7 +63,7 @@ std::string DIVIDE(std::string, std::string){
 std::string MULTI(std::string, std::string){
   
 }
-std::string MOD(std::string, std::string){
+std::string MOD(std::string, std::string){ /// Next
   
 }
 std::string gcd(std::string x, std::string y){
