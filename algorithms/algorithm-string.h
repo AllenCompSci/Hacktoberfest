@@ -51,8 +51,32 @@ int cmprLen(std::string x, std::string y){
     return ((int)x.length() != (int) y.length()) ? ((int)x.length() - (int)y.length()) / abs((int)x.length() - (int)y.length()) : 0;
 }
 
-std::string ADD(std::string, std::string){
-  
+std::string ADD(std::string x, std::string y){
+    if(isNeg(x) && isNeg(y)){
+        return "-" + ADD(sign(x), sign(y));
+    }
+    else if(isNeg(x)){
+        return SUB(y,sign(x));
+    }
+    else if(isNeg(y)){
+        return SUB(x,sign(y));
+    }
+    placeHandler(x,y);
+    std::result = "";
+    int carry = 0;
+    for(int i = (int)x.length() - 1; i >= 0; i--){
+        char value = x[i] /* char value is 48 larger than numeric */+ y[i] /* same */ - 48 /* we have to subtract 48 2 times then add it back once */ + carry;
+        if(value > '9'){
+            carry = 1;
+            value -= 10;
+        }
+        else
+            carry = 0;
+        result = (char)value + result;            
+    }
+    if(carry > 0)
+        result = (char)(carry+48) + result;
+    return trimStr(result);
 }
 std::string SUB(std::string, std::string){
   
