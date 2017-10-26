@@ -1,5 +1,5 @@
 # Hacktoberfest
-<p align="center"> 
+<p align="center">
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
 
@@ -50,9 +50,10 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Ben Fontenot](https://github.com/BenDFontenot)
  - [Shabab Haque](https://github.com/hotdogshabab)
  - [Steven Romero](https://github.com/St3ven16)
- - [alansunglee](https://github.com/alansunglee)
  - [raychen1154](https://github.com/raychen1155)
+ - [alansunglee](https://github.com/alansunglee)
  - [Xintus](https://github.com/Xintus)
+ - [GabLanger](https://github.com/GabLanger)
  - [Papadou0710](https://github.com/Papadou0710)
  - [Louis Yang](https://github.com/louiscyang)
  - [spicyboi](https://github.com/spicyboi)
@@ -116,13 +117,20 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Maze-Camel](https://github.com/Maze-Camel)
  - [JustinV10](https://github.com/JustinV10)
  - [ZB1228](https://github.com/ZB1228)
- - [jquinn75013](https://github.com/jquinn75013) 
+ - [jquinn75013](https://github.com/jquinn75013)
  - [Monkeymax802](https://github.com/Monkeymax802)
  - [jtschuebel](https://github.com/jtschuebel)
  - [kyleaustin36](https://github.com/kyleaustin36)
  - [250842mark](https://github.com/250842mark)
  - [Xxbingood4everxX](https://github.com/bingood4ever)
  - [Ajitesh Gupta](https://github.com/AjiteshGupta)
-
-
+ - [umaams](https://github.com/umaams)
+ - [marrujoalex](https://github.com/marrujoalex)
+ - [Kevinjblanchard](https://github.com/Kevinjblanchard)
+ - [angelinabiswas](https://github.com/angelinabiswas)
+ - [ervyncruz891](https://github.com/ervyncruz891)
+ - [ColinNeary](https://github.com/ColinNeary)
+ - [JustinSchrader](https://github.com/justinschrader)
+ - [Brookevaughan](https://github.com/BrookeVaughan)
+ - [alvalle09](https://github.com/alvalle09)
 
