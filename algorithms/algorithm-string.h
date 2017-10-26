@@ -45,8 +45,35 @@ void placeHandler(std::string& x, std::string& y){
         else{
             y = "0" + y;
         }
+    }
+    if(x_isNeg)
+        sign(x);
+    if(y_isNeg)
+        sign(y);
 }
 
+void placeHandler(std::vector<std::string>& x){
+    int x_Size = (int)x.size();
+    std::vector<bool> isNegVec;
+    int maxSize = 0;
+    for(int i = 0; i < x_Size; i++){
+        trimStr(x[i]);
+        bool x_isNeg = isNeg(x[i]);
+        if(x_isNeg)
+            sign(x[i]);
+        isNegVec.push_back(x_isNeg);
+        maxSize = maxSize > (int)x[i].length() ? maxSize : (int)x[i].length();
+    }
+    for(int i = 0; i < x_Size; i++){
+        while((int)x[i].length() < maxSize){
+            x[i] = "0" + x[i];    
+        }
+        if(isNegVec[i]){
+            sign(x[i]);
+        }
+    }
+}
+    
 int cmprLen(std::string x, std::string y){
     return ((int)x.length() != (int) y.length()) ? ((int)x.length() - (int)y.length()) / abs((int)x.length() - (int)y.length()) : 0;
 }
@@ -55,7 +82,20 @@ std::string abs(std::string x){
     return isNeg(x) ? x.substr(1) : x;
 }
 
-    // Deeps Fault
+std::string ADD(std::vector<std::string> NUMS){
+    int size_NUMS = (int) NUMS.size(); 
+    std::vector<std::string> POS;
+    std::vector<std::string> NEG;
+    for(int i = 0; i < size_NUMS; i++){
+        if(isNeg(NUMS[i]))
+            NEG.push_back(NUMS[i]);
+        else
+            POS.push_back(NUMS[i]);
+    }
+    placeHandler(POS);
+    placeHandler(NEG);
+    // STOPPING POINT
+}
     
 std::string ADD(std::string x, std::string y){
     if(isNeg(x) && isNeg(y)){
