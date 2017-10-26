@@ -4,6 +4,7 @@
 
 
 void trimStr(std::string&);
+void trimStr(std::string&, std::string&);
 void trimAbsStr(std::string&);
 void placeHandler(std::string& , std::string&);
 void sign(std::string&);
