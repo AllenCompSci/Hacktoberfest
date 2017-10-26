@@ -15,17 +15,20 @@ std::string MULTI(std::string, std::string){
 std::string MOD(std::string, std::string){
   
 }
+std::string gcd(std::string x, std::string y){
+  
+}
 
 bool isLessThan(std::string x, std::string y){
-  if(x.length() > 0 && x[0] == '-'){
-   if(y.length() > 0 && y[0] == '-'){
+  if((int)x.length() > 0 && x[0] == '-'){
+   if((int)y.length() > 0 && y[0] == '-'){
        
    }
     else{
       return true;
     }
   }
-  else if (y.length() > 0 && y[0] == '-'){
+  else if ((int)y.length() > 0 && y[0] == '-'){
     return false; 
   }
   if((int)x.length() == (int)y.length()){
