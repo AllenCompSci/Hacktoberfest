@@ -52,5 +52,5 @@ print("Hello From : ")
 for i in range(len(_USERNAME_)):
     print(_DISPLAY_[i], " @ https://github.com/", _USERNAME_[i])
 print("For Reagan who is very Fergalicious")
-for i in range(len(_Fergalicious_))
+for i in range(len(_Fergalicious_)):
     print(_Fergalicious_[i])
