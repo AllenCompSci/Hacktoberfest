@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+void trimStr(std::string&);
+
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
 std::string DIVIDE(std::string, std::string);
