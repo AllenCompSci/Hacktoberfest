@@ -1,0 +1,6 @@
+// LOL CODE IS C BASED... C WHAT I DID THERE?
+// https://en.wikipedia.org/wiki/LOLCODE
+HAI 1.2
+CAN HAS STDIO?
+VISIBLE "HAI WORLD!"
+KTHXBYE
