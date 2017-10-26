@@ -21,7 +21,7 @@ void trimAbsStr(std::string& x){
 }
 void sign(std::string& x){
     if(isNeg(x)){
-        x = x.substr(1);
+        x = abs(x);
         trimAbsStr();
     }
     else{
@@ -51,6 +51,10 @@ int cmprLen(std::string x, std::string y){
     return ((int)x.length() != (int) y.length()) ? ((int)x.length() - (int)y.length()) / abs((int)x.length() - (int)y.length()) : 0;
 }
 
+std::string abs(std::string x){
+    return isNeg(x) ? x.substr(1) : x;
+}
+
 std::string ADD(std::string x, std::string y){
     if(isNeg(x) && isNeg(y)){
         return "-" + ADD(sign(x), sign(y));
@@ -78,8 +82,10 @@ std::string ADD(std::string x, std::string y){
         result = (char)(carry+48) + result;
     return trimStr(result);
 }
-std::string SUB(std::string, std::string){
-  
+std::string SUB(std::string x, std::string y){
+    if(isNeg(x) && isNeg(y)){
+        // - (x - y) Need to check if y is larger than x. 
+    }
 }
 std::string DIVIDE(std::string, std::string){
   
