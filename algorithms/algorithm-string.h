@@ -60,6 +60,9 @@ std::string SUB(std::string, std::string){
 std::string DIVIDE(std::string, std::string){
   
 }
+std::string INDIV(std::string x, std::string y){
+    
+}
 std::string MULTI(std::string, std::string){
   
 }
@@ -106,4 +109,10 @@ bool isGreaterThan(std::string, std::string){
 }
 bool isNeg(std::string x){
     return ((int)x.length() > 0) && x[0] == '-'; 
+}
+bool isEven(std::string x){
+    return x[x.length() - 1] % 2 == 0;   
+}
+bool isOdd(std::string x){
+    return !isEven(x);
 }
