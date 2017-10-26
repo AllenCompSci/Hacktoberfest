@@ -125,6 +125,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Xxbingood4everxX](https://github.com/bingood4ever)
  - [umaams](https://github.com/umaams)
  - [marrujoalex](https://github.com/marrujoalex)
+ - [angelinabiswas](https://github.com/angelinabiswas)
  - [ervyncruz891](https://github.com/ervyncruz891)
  - [ColinNeary](https://github.com/ColinNeary)
  - [JustinSchrader](https://github.com/justinschrader)
