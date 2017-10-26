@@ -3,6 +3,7 @@
 
 void trimStr(std::string&);
 void placeHandler(std::string& , std::string&);
+int cmprLen(std::string, std::string);
 
 std::string ADD(std::string, std::string);
 std::string SUB(std::string, std::string);
