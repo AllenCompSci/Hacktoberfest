@@ -50,8 +50,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Ben Fontenot](https://github.com/BenDFontenot)
  - [Shabab Haque](https://github.com/hotdogshabab)
  - [Steven Romero](https://github.com/St3ven16)
- - [alansunglee](https://github.com/alansunglee)
  - [raychen1154](https://github.com/raychen1155)
+ - [alansunglee](https://github.com/alansunglee)
  - [Xintus](https://github.com/Xintus)
  - [GabLanger](https://github.com/GabLanger)
  - [Papadou0710](https://github.com/Papadou0710)
@@ -126,3 +126,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [umaams](https://github.com/umaams)
  - [marrujoalex](https://github.com/marrujoalex)
  - [angelinabiswas](https://github.com/angelinabiswas)
+ - [ervyncruz891](https://github.com/ervyncruz891)
+ - [ColinNeary](https://github.com/ColinNeary)
+ - [JustinSchrader](https://github.com/justinschrader)
+ - [Brookevaughan](https://github.com/BrookeVaughan)
+
