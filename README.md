@@ -167,4 +167,9 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [taileanguyen](https://github.com/taileanguyen)
  - [arya-ayush](https://github.com/arya-ayush)
  - [jainayush975](https://github.com/jainayush975)
+ - [jasondrogers](https://github.com/jasondrogers)
+ - [Justin-Hollmer](https://github.com/Justin-Hollmer)
+ - [Codyho](https://github.com/Codyho)
+ - [jumbobaco](https://github.com/jumbobaco)
+ - [ved-n](https://github.com/ved-n)
 
