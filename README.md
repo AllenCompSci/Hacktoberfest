@@ -1,4 +1,4 @@
-# Hacktoberfest
+# __Hacktoberfest__
 <p align="center">
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
@@ -26,13 +26,13 @@ This census has a live webpage [here](https://allencompsci.github.io/Hacktoberfe
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
 
-### Contributing
+### __Contributing__
 Fork this project and add your username + profile link to the [Census](https://github.com/AllenCompSci/Hacktoberfest/blob/master/README.md) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
-[AllenCompSci](https://github.com/AllenCompSci)
+ - [AllenCompSci](https://github.com/AllenCompSci)
 ```
 
-### Census
+### __Census__
  - [Shivam1897](https://github.com/shivam1897)
  - [AllenCompSci](https://github.com/AllenCompSci)
  - [Mr. Hudson](https://github.com/theshrewedshrew)
@@ -126,6 +126,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [250842mark](https://github.com/250842mark)
  - [Xxbingood4everxX](https://github.com/bingood4ever)
  - [Ajitesh Gupta](https://github.com/AjiteshGupta)
+ - [marcirsch] (https://github.com/marcirsch)
  - [umaams](https://github.com/umaams)
  - [marrujoalex](https://github.com/marrujoalex)
  - [Kevinjblanchard](https://github.com/Kevinjblanchard)
@@ -138,3 +139,17 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [zoritecgaming74](https://github.com/zoritecgaming74)
  - [mwalenia](https://github.com/mwalenia)
  - [PJHudson618](https://github.com/PJHudson618)
+ - [Ehatsham](https://github.com/htc1dan)
+ - [amanmehta-maniac](https://github.com/amanmehta-maniac)
+ - [PAWAN KUMAR GAUTAM](https://github.com/PAWAN-KUMAR-GAUTAM000) 
+ - [huyanhh](https://github.com/huyanhh)
+ - [AllureQuartz](https://github.com/AllureQuartz)
+ - [raghav008](https://github.com/raghav008)
+ - [EvilEpicCoder](https://github.com/EvilEpicCoder)
+ - [hunter30022](https://github.com/hunter30022)
+ - [Ghatage](https://github.com/Ghatage)
+ - [Kiiryu](https://github.com/kiiryu)
+ - [ShrutiKapoor](https://github.com/shrutikapoor08)
+
+
+
