@@ -82,7 +82,7 @@ std::string abs(std::string x){
     return isNeg(x) ? x.substr(1) : x;
 }
 
-std::string ADD(std::vector<std::string> NUMS){
+std::string ADD(std::vector<std::string> NUMS){ // ADD for Multiply when vectors are created
     int size_NUMS = (int) NUMS.size(); 
     std::vector<std::string> POS;
     std::vector<std::string> NEG;
@@ -111,7 +111,7 @@ std::string ADD(std::vector<std::string> NUMS){
     */
     std::string temp = "0";
     int carry = 0;
-    if((int)POS.size()>0)
+    if((int)POS.size()>0){
         for(int j = POS[0].length() - 1; j >= 0; j--){ // j index of string
             int HOLD = 0;
             for(int i = 0; i < (int)POS.size(); i++){ // i index of vector
@@ -121,14 +121,18 @@ std::string ADD(std::vector<std::string> NUMS){
             temp = (char)((HOLD % 10) + 48) + temp; 
             carry = HOLD / 10; // Integer Division
         }
-    while(carry != 0){
-        temp = (char)((carry % 10) + 48) + temp; 
-        carry /= 10;
+        while(carry != 0){
+            temp = (char)((carry % 10) + 48) + temp; 
+            carry /= 10;
+        }
+    }
+    else{
+        temp = "0";   
     }
     POS.clear();
     POS.push_back(temp);
     temp = "";
-    if((int)NEG.size()>0)
+    if((int)NEG.size()>0){
         for(int j = NEG[0].length() - 1; j >= 0; j--){ // j index of string
             int NEG = 0;
             for(int i = 0; i < (int)NEG.size(); i++){ // i index of vector
@@ -138,9 +142,13 @@ std::string ADD(std::vector<std::string> NUMS){
             temp = (char)((HOLD % 10) + 48) + temp; 
             carry = HOLD / 10; // Integer Division
         }
-    while(carry != 0){
-        temp = (char)((carry % 10) + 48) + temp; 
-        carry /= 10;
+        while(carry != 0){
+            temp = (char)((carry % 10) + 48) + temp; 
+            carry /= 10;
+        }
+    }
+    else{
+        temp = "0";   
     }
     return SUB(POS.pop(), temp);
 }
