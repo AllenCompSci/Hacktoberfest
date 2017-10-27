@@ -72,7 +72,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Kodaskool](https://github.com/Kodaskool)
  - [MasterAndrewJ](https://github.com/MasterAndrewJ)
  - [Holden Essman](https://github.com/HoldenEssman)
- - [RogueNinja410](https://github.com/RogueNinja410])
+ - [RogueNinja410](https://github.com/RogueNinja410)
  - [carsonmires](https://github.com/carsonmires)
  - [PeteDelkus](https://github.com/PeteDelkus)
  - [John Nguyen](https://github.com/jawnlovesfreestuff)
