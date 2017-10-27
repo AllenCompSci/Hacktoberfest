@@ -97,8 +97,17 @@ std::string ADD(std::vector<std::string> NUMS){
     placeHandler(NEG);
     tmp.clear();
     /// Stopping point USE tmp to hold the poped values and clear between pos and neg. stop when tmp.clear() is empty and pos/neg size = 1
-    
-    
+    /* DONT WANT TO DO... THIS IS CURRENT IMPLEMENTATION
+    do{
+        do{
+            tmp.push_back(ADD(POS.pop(), POS.pop()));
+        }while((int)(POS.size())>2);
+        do{
+            POS.push_back(tmp.pop());
+        }while(!tmp.empty());
+        placeHandler(POS);
+    }while((int)(POS.size()) == 1);
+    */
 }
     
 std::string ADD(std::string x, std::string y){
