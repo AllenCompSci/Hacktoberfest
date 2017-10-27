@@ -29,7 +29,7 @@ This census has a live webpage [here](https://allencompsci.github.io/Hacktoberfe
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/AllenCompSci/Hacktoberfest/blob/master/README.md) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
-[AllenCompSci](https://github.com/AllenCompSci)
+ - [AllenCompSci](https://github.com/AllenCompSci)
 ```
 
 ### Census
