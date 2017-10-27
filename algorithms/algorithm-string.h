@@ -191,6 +191,23 @@ std::string SUB(std::string x, std::string y){ // THIS IS X - Y
     else if(isNeg(y)){
         return ADD(x,sign(y));   
     }
+    // Decimal Future
+    
+    if(isLessThan(x,y){
+        return "-" + SUB(y,x);   
+    }
+    placeHandler(x,y);
+    std::string result = "";
+    // This X will Always be greater than Y
+    for(int i = (int)x.length()-1; i>= 0; i--){
+        int val = x[i] - y[i] - 48;
+        if(val < 48){
+            val += 10;
+            x[i-1]--;
+        }
+        result = (char)(val + 48) + result;
+    }
+    return result;
 }
 std::string DIVIDE(std::string, std::string){
   
