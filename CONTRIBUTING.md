@@ -86,3 +86,9 @@ If you're providing snippets in the issue, use [Markdown code blocks](https://he
 
 Thank you and happy hacking!
 
+# Our repos are chatty!
+
+SendGrid works closely with our community to find solutions and build new features. These communications can lead to a lot of notification emails and this month will be no exception.
+
+If you would like to avoid the Github notifications and updates that come from watching a repo, please sign up to receive only release notes through the library-specific newsletter of your choice. You will be sent release notifications, rather than every single comment, issue, and PR that happens!
+
