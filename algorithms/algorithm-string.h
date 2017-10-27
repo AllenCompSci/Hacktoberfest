@@ -86,6 +86,7 @@ std::string ADD(std::vector<std::string> NUMS){
     int size_NUMS = (int) NUMS.size(); 
     std::vector<std::string> POS;
     std::vector<std::string> NEG;
+    std::vector<std::string> tmp;
     for(int i = 0; i < size_NUMS; i++){
         if(isNeg(NUMS[i]))
             NEG.push_back(NUMS[i]);
@@ -94,7 +95,10 @@ std::string ADD(std::vector<std::string> NUMS){
     }
     placeHandler(POS);
     placeHandler(NEG);
-    // STOPPING POINT
+    tmp.clear();
+    /// Stopping point USE tmp to hold the poped values and clear between pos and neg. stop when tmp.clear() is empty and pos/neg size = 1
+    
+    
 }
     
 std::string ADD(std::string x, std::string y){
