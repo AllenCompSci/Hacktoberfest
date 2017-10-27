@@ -1,6 +1,35 @@
 #include "prototype.h"
 
 void trimStr(std::string& x){
+    std:: cpy = "";
+    // left trim
+    bool val = true;
+    for(int i = 0; i < (int)x.length(); i++){
+        if(val){
+            if(x[i] != ' '){
+                val = true;
+                cpy = x[i];
+            }
+        }
+        else{
+            cpy += x[i];         
+        }
+    }
+    x = cpy;
+    // right trim
+    val = true;
+    for(int i = x.length() - 1; i >= 0; i--){
+        if(val){
+            if(x[i] != ' '){
+                val = true;
+                cpy = x[i];
+            }
+        }
+        else{
+            cpy += x[i];         
+        }
+    }
+    x = cpy;
     bool neg = isNeg(x);
     if(neg) 
         sign(x);
@@ -155,13 +184,17 @@ std::string ADD(std::vector<std::string> NUMS){ // ADD for Multiply when vectors
     
 std::string ADD(std::string x, std::string y){
     if(isNeg(x) && isNeg(y)){
-        return "-" + ADD(sign(x), sign(y));
+        sign(x);
+        sign(y);
+        return "-" + ADD(x,y);
     }
     else if(isNeg(x)){
-        return SUB(y,sign(x));
+        sign(x);
+        return SUB(y,x);
     }
     else if(isNeg(y)){
-        return SUB(x,sign(y));
+        sign(y);
+        return SUB(x,y);
     }
     placeHandler(x,y);
     std::result = "";
@@ -178,18 +211,23 @@ std::string ADD(std::string x, std::string y){
     }
     if(carry > 0)
         result = (char)(carry+48) + result;
-    return trimStr(result);
+    trimStr(result);
+    return result;
 }
 std::string SUB(std::string x, std::string y){ // THIS IS X - Y
     if(isNeg(x) && isNeg(y)){
         // - (x - y) Need to check if y is larger than x. AFTER NEG
-        return SUB(sign(y),sign(x));
+        sign(x);
+        sign(y);
+        return SUB(y,x);
     }
     else if(isNeg(x)){
-        return "-" + ADD(sign(x), y);   
+        sign(x);
+        return "-" + ADD(x, y);   
     }
     else if(isNeg(y)){
-        return ADD(x,sign(y));   
+        sign(y);
+        return ADD(x,y);   
     }
     // Decimal Future
     
@@ -212,8 +250,13 @@ std::string SUB(std::string x, std::string y){ // THIS IS X - Y
 std::string DIVIDE(std::string, std::string){
   
 }
-std::string INDIV(std::string x, std::string y){
-    
+std::string INTDIV(std::string x, std::string y){
+    std::string temp = DIVIDE(x,y);
+    if(temp.find(' ')>0){
+        temp = temp.substr(0,temp.find(' '));   
+    }
+    trimStr(temp);
+    return temp;
 }
 std::string MULTI(std::string, std::string){
   
