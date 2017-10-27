@@ -1,4 +1,4 @@
-# Hacktoberfest
+# __Hacktoberfest__
 <p align="center">
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
@@ -26,13 +26,13 @@ This census has a live webpage [here](https://allencompsci.github.io/Hacktoberfe
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
 
-### Contributing
+### __Contributing__
 Fork this project and add your username + profile link to the [Census](https://github.com/AllenCompSci/Hacktoberfest/blob/master/README.md) list below, then make a Pull Request to add your name to this repository like so..
 ```markdown
 [AllenCompSci](https://github.com/AllenCompSci)
 ```
 
-### Census
+### __Census__
  - [Shivam1897](https://github.com/shivam1897)
  - [AllenCompSci](https://github.com/AllenCompSci)
  - [Mr. Hudson](https://github.com/theshrewedshrew)
@@ -137,3 +137,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [alvalle09](https://github.com/alvalle09)
  - [zoritecgaming74](https://github.com/zoritecgaming74)
  - [mwalenia](https://github.com/mwalenia)
+ - [Ehatsham](https://github.com/htc1dan)
