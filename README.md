@@ -179,4 +179,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [SpencerBullinger](https://github.com/SpencerBullinger)
  - [Phaelin](https://github.com/phaelin)
  - [MikkelP](https://github.com/MikkelP)
-
+ - [malachiw] (https://github.com/malachiw)
