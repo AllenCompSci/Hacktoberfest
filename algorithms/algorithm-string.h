@@ -107,7 +107,42 @@ std::string ADD(std::vector<std::string> NUMS){
         }while(!tmp.empty());
         placeHandler(POS);
     }while((int)(POS.size()) == 1);
+    INSTEAD 
     */
+    std::string temp = "0";
+    int carry = 0;
+    if((int)POS.size()>0)
+        for(int j = POS[0].length() - 1; j >= 0; j--){ // j index of string
+            int HOLD = 0;
+            for(int i = 0; i < (int)POS.size(); i++){ // i index of vector
+                HOLD += POS[i][j] - 48;
+            }
+            HOLD += carry; // ADDS PREVIOUS CARRY
+            temp = (char)((HOLD % 10) + 48) + temp; 
+            carry = HOLD / 10; // Integer Division
+        }
+    while(carry != 0){
+        temp = (char)((carry % 10) + 48) + temp; 
+        carry /= 10;
+    }
+    POS.clear();
+    POS.push_back(temp);
+    temp = "";
+    if((int)NEG.size()>0)
+        for(int j = NEG[0].length() - 1; j >= 0; j--){ // j index of string
+            int NEG = 0;
+            for(int i = 0; i < (int)NEG.size(); i++){ // i index of vector
+                HOLD += NEG[i][j] - 48;
+            }
+            HOLD += carry; // ADDS PREVIOUS CARRY
+            temp = (char)((HOLD % 10) + 48) + temp; 
+            carry = HOLD / 10; // Integer Division
+        }
+    while(carry != 0){
+        temp = (char)((carry % 10) + 48) + temp; 
+        carry /= 10;
+    }
+    return SUB(POS.pop(), temp);
 }
     
 std::string ADD(std::string x, std::string y){
