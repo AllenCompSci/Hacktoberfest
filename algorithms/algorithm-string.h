@@ -180,9 +180,16 @@ std::string ADD(std::string x, std::string y){
         result = (char)(carry+48) + result;
     return trimStr(result);
 }
-std::string SUB(std::string x, std::string y){
+std::string SUB(std::string x, std::string y){ // THIS IS X - Y
     if(isNeg(x) && isNeg(y)){
-        // - (x - y) Need to check if y is larger than x. 
+        // - (x - y) Need to check if y is larger than x. AFTER NEG
+        return SUB(sign(y),sign(x));
+    }
+    else if(isNeg(x)){
+        return "-" + ADD(sign(x), y);   
+    }
+    else if(isNeg(y)){
+        return ADD(x,sign(y));   
     }
 }
 std::string DIVIDE(std::string, std::string){
