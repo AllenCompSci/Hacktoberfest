@@ -1,7 +1,7 @@
 $.get(
     "https://raw.githubusercontent.com/AllenCompSci/Hacktoberfest/master/README.md",
     function(file) {
-        var census_md = file.split("### Census")[1].split("\n");
+        var census_md = file.split("### __Census__")[1].split("\n");
         census_md.map( (user) => {
             if (user == ""){
                 return;
