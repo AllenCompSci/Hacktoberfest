@@ -180,4 +180,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Phaelin](https://github.com/phaelin)
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw] (https://github.com/malachiw)
- - [Kool Arpan] (https://github.com/arpanpyasi)
+ - [Kool Arpan](https://github.com/arpanpyasi)
