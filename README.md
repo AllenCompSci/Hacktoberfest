@@ -138,3 +138,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [zoritecgaming74](https://github.com/zoritecgaming74)
  - [mwalenia](https://github.com/mwalenia)
  - [Ghatage](https://github.com/Ghatage)
+ - [Kiiryu](https://github.com/kiiryu)
+ - [ShrutiKapoor](https://github.com/shrutikapoor08)
+
