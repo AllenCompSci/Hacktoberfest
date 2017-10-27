@@ -33,10 +33,9 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### __Census__
-
+ - [AllenCompSci](https://github.com/AllenCompSci)
  - [Traderain](https://github.com/Traderain)
  - [Shivam1897](https://github.com/shivam1897)
- - [AllenCompSci](https://github.com/AllenCompSci)
  - [Mr. Hudson](https://github.com/theshrewedshrew)
  - [ayushagarwal0316](https://github.com/ayushagarwal0316)
  - [PAH](https://github.com/pahosler)
@@ -176,3 +175,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Cris-Cos](https://github.com/cris-cos)
  - [Yahnit](https://github.com/Yahnit)
  - [SpencerBullinger](https://github.com/SpencerBullinger)
+ 
+ 
