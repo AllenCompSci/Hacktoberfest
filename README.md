@@ -153,6 +153,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Kiiryu](https://github.com/kiiryu)
  - [ShrutiKapoor](https://github.com/shrutikapoor08)
  - [yalcins](https://github.com/yalcins)
+ - [JarenDuffield](https://github.com/JarenDuffield)
  - [m6code](https://github.com/m6code)
 
 
