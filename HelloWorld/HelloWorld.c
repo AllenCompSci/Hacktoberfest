@@ -30,7 +30,7 @@ int main(int argc, char * argv[]) {
    populate_census();
 
    for(CensusEntry_t * current = head; current != NULL; current = current->next) {
-      printf("Hello from %s @ https://github.com/%s\n", current->fullName, current->githubUsername);
+      printf("Hello World from %s @ https://github.com/%s\n", current->fullName, current->githubUsername);
    }
 
    return EXIT_SUCCESS;
