@@ -46,9 +46,8 @@ void add_entry(char * fullName, char * githubUsername) {
    // we're checking both just to be sure.
    if(head == NULL || tail == NULL) {
       head = entry;
-      tail = entry;
    } else {
       tail->next = entry;
-      tail = entry;
    }
+   tail = entry;
 }
