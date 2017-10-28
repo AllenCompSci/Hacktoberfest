@@ -10,8 +10,8 @@ void Census2017() {
   /*
    * Add yourself using the following format:
    *    Census.push_back("Your Name @ https://github.com/username");
-   *
    */
+   
   Census.push_back("Allen Comp Sci @ https://github.com/AllenCompSci");
   Census.push_back("Mr. Hudson @ https://github.com/theshrewedshrew");
   Census.push_back("BEST Team 58 @ https://github.com/BESTTeam58");
@@ -40,7 +40,7 @@ void Census2017() {
 int main() {
   Census2017();
 
-  for(int i = 0; i < (int) Census.size(); ++i){
+  for(int i = 0; i < (int) Census.size(); ++i) {
     cout << "Hello World from " << Census[i] << endl;
   }
 
