@@ -7,6 +7,7 @@ class HelloWorld {
     /*
      * Add yourself using the following format:
      *    CENSUS.add("Your Name @ https://github.com/username");
+     *
      */
     CENSUS.add("Allen Comp Sci @ https://github.com/AllenCompSci");
     CENSUS.add("Mr. Hudson @ https://github.com/theshrewedshrew");
