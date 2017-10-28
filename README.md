@@ -146,7 +146,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PJHudson618](https://github.com/PJHudson618)
  - [Ehatsham](https://github.com/htc1dan)
  - [amanmehta-maniac](https://github.com/amanmehta-maniac)
- - [PAWAN KUMAR GAUTAM](https://github.com/PAWAN-KUMAR-GAUTAM000) 
+ - [PAWAN KUMAR GAUTAM](https://github.com/PAWAN-KUMAR-GAUTAM000)
  - [huyanhh](https://github.com/huyanhh)
  - [AllureQuartz](https://github.com/AllureQuartz)
  - [raghav008](https://github.com/raghav008)
@@ -181,3 +181,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw](https://github.com/malachiw)
  - [Kool Arpan](https://github.com/arpanpyasi)
+ - [Danil Shankovskiy](https://github.com/BeAsYit)
