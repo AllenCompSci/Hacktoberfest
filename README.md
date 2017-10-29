@@ -133,6 +133,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MJHudson618](https://github.com/MJHudson618)
  - [umaams](https://github.com/umaams)
  - [marrujoalex](https://github.com/marrujoalex)
+ - [Shaedil Dider](https://github.com/Shaedil)
  - [Kevinjblanchard](https://github.com/Kevinjblanchard)
  - [angelinabiswas](https://github.com/angelinabiswas)
  - [ervyncruz891](https://github.com/ervyncruz891)
