@@ -182,6 +182,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw](https://github.com/malachiw)
  - [Kool Arpan](https://github.com/arpanpyasi)
+ - [Linus Torvalds](https://github.com/torvalds)
  - [SarraDIF](https://github.com/SarraDIF)
  - [Danil Shankovskiy](https://github.com/BeAsYit)
  - [joycemaaa](https://github.com/joycemaaa)
