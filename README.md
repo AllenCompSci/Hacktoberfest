@@ -206,4 +206,10 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Pradeep Kumar](https://github.com/pradeepisro)
  - [V. Narayan](https://github.com/ShootingStar0)
  - [TharinduDilshan](https://github.com/TharinduDilshan)
- 
+ - [Billy Jones](https://github.com/jonesbilly)
+ - [AmirAli Mohammadzadeh](https://github.com/AmirAliM)
+ - [Earvin Gemenez](https://github.com/earvingemenez)
+ - [Deepanshu Dabas](https://github.com/deepanshu22)
+ - [Soubhik Rakshit](https://github.com/soubh1k) 
+ - [Jasen Wyatt](https://github.com/jasenwyatt)
+
