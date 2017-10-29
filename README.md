@@ -205,6 +205,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Roberto Andres Alvarez](https://github.com/robertoandres21)
  - [Pradeep Kumar](https://github.com/pradeepisro)
  - [V. Narayan](https://github.com/ShootingStar0)
+ - [amivit](https://github.com/amivit)
  - [Kush Saini](https://github.com/kushsaini10)
  - [Botseer](https://github.com/Botseer)
  - [TharinduDilshan](https://github.com/TharinduDilshan)
@@ -214,4 +215,3 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Deepanshu Dabas](https://github.com/deepanshu22)
  - [Soubhik Rakshit](https://github.com/soubh1k) 
  - [Jasen Wyatt](https://github.com/jasenwyatt)
-
