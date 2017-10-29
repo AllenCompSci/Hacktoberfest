@@ -182,6 +182,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw](https://github.com/malachiw)
  - [Kool Arpan](https://github.com/arpanpyasi)
+ - [Santatra](https://github.com/nirinarisantatra)
  - [Gizmodesbois](https://github.com/gizmodesbois)
  - [shubham gaur](https://github.com/shubham0032)
  - [Revolee](https://github.com/perlevolee)
@@ -196,3 +197,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [joycemaaa](https://github.com/joycemaaa)
  - [KaiUsesThis](https://github.com/KaiUsesThis)
  - [Roberto Andres Alvarez](https://github.com/robertoandres21)
+
