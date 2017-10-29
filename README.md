@@ -182,6 +182,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw](https://github.com/malachiw)
  - [Kool Arpan](https://github.com/arpanpyasi)
+ - [chrismgonzalez](https://github.com/chrismgonzalez)
  - [Maxwell Cody](https://github.com/maxwellcody)
  - [dbrereton1995](https://github.com/dbrereton1995)
  - [Siddhant Sharma ](https://github.com/ssiddhantsharma)
@@ -200,4 +201,3 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [joycemaaa](https://github.com/joycemaaa)
  - [KaiUsesThis](https://github.com/KaiUsesThis)
  - [Roberto Andres Alvarez](https://github.com/robertoandres21)
-
