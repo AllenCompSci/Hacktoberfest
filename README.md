@@ -182,6 +182,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [MikkelP](https://github.com/MikkelP)
  - [malachiw](https://github.com/malachiw)
  - [Kool Arpan](https://github.com/arpanpyasi)
+ - [Gizmodesbois](https://github.com/gizmodesbois)
  - [shubham gaur](https://github.com/shubham0032)
  - [Revolee](https://github.com/perlevolee)
  - [Rube Flint](https://github.com/flintrube)
