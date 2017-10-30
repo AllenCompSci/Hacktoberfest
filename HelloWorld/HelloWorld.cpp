@@ -35,6 +35,7 @@ void Census2017() {
   Census.push_back("PJHudson618 @ https://github.com/PJHudson618");
   Census.push_back("Abhi1458 @ https://github.com/Abhi1458");
   Census.push_back("Maxwell Cody @ https://github.com/MaxwellCody");
+  Census.push_back("bansalanjali2512 @ https://github.com/bansalanjali2512");
 }
 
 int main() {
