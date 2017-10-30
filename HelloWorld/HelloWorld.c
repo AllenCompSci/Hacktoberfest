@@ -21,6 +21,7 @@ void populate_census() {
     *
     * Add yourself using the following format:
     *    add_entry("Your Name", "github_username");
+    <li><a href="https://github.com/ItsBree">ItsBree</a></li>
     */
    add_entry("Allen Comp Sci", "AllenCompSci");
    add_entry("Maxwell Cody", "MaxwellCody");
