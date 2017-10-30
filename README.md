@@ -217,3 +217,5 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Deepanshu Dabas](https://github.com/deepanshu22)
  - [Soubhik Rakshit](https://github.com/soubh1k) 
  - [Jasen Wyatt](https://github.com/jasenwyatt)
+ - [Wbeimar Logatto](https://github.com/Logatto)
+
