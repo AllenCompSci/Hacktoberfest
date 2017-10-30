@@ -3,6 +3,7 @@
 
 int main()
 {
-	printf("Hello World!");
+	printf("Die World!");
 }
 
+//ayylmao
