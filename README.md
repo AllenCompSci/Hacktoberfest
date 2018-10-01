@@ -174,6 +174,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Codyho](https://github.com/Codyho)
  - [jumbobaco](https://github.com/jumbobaco)
  - [ved-n](https://github.com/ved-n)
+ - [ColinPeth](https://github.com/colinpeth)
  - [Cris-Cos](https://github.com/cris-cos)
  - [Vishal Reddy](https://github.com/vishalre)
  - [Yahnit](https://github.com/Yahnit)
