@@ -215,5 +215,6 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [AmirAli Mohammadzadeh](https://github.com/AmirAliM)
  - [Earvin Gemenez](https://github.com/earvingemenez)
  - [Deepanshu Dabas](https://github.com/deepanshu22)
- - [Soubhik Rakshit](https://github.com/soubh1k) 
+ - [Soubhik Rakshit](https://github.com/soubh1k)
  - [Jasen Wyatt](https://github.com/jasenwyatt)
+ - [Rishi Sharma](https://github.com/rishi-s8) 
