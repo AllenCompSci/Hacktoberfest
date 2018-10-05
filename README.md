@@ -200,6 +200,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Linus Torvalds](https://github.com/torvalds)
  - [SarraDIF](https://github.com/SarraDIF)
  - [Danil Shankovskiy](https://github.com/BeAsYit)
+ - [DivyaThakur24](https://github.com/DivyaThakur24)
  - [joycemaaa](https://github.com/joycemaaa)
  - [KaiUsesThis](https://github.com/KaiUsesThis)
  - [Roberto Andres Alvarez](https://github.com/robertoandres21)
