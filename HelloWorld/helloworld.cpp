@@ -1,8 +1,6 @@
-#include<stdio.h>
-#include<iostream>
-
-int main()
-{
-	printf("Hello World!");
+#include <bits/stdc++.h>
+using namespace std;
+ int main(){
+	cout << "Hello World !" << endl;
+	return 1;
 }
-
