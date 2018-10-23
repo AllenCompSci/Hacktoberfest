@@ -30,6 +30,7 @@ class HelloWorld {
     CENSUS.add("MJHudson618 @ https://github.com/MJHudson618");
     CENSUS.add("Abhi1458 @ https://github.com/Abhi1458");
     CENSUS.add("Maxwell Cody @ https://github.com/MaxwellCody");
+    CENSUS.add("Lennongrad @ https://github.com/Lennongrad");
   }
 
   public static void main(String[] args) {
