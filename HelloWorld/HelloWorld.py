@@ -1,6 +1,6 @@
 ## Create your own that would take the place similar to Java, C++ for any applicable language.
 
-_Fergalicious_ = ["Four tres two uno", "", "[Will.i.am:] : Listen up y'all 'cause this is it", "The beat that I'm bangin' is delicious","",
+_Fergalicious_ = ["Four tres two uno", "", "[Will.i.am:] : (duuhhh d d d d d d d duh duh)repeat 2x Listen up y'all 'cause this is it", "The beat that I'm bangin' is delicious","",
 "[Fergie:] : Fergalicious definition make them boys go loco", "They want my treasure so they get their pleasures from my photo",
 "You could see me you can't squeeze me", "I ain't easy I ain't sleazy", "I got reasons why I tease 'em", "Boys just come and go like seasons",
 "", "Fergalicious (so delicious)", "But I ain't promiscuous", "And if you were suspicious", "All that shit is fictitious",
