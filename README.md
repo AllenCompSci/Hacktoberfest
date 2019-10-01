@@ -59,6 +59,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [GabLanger](https://github.com/GabLanger)
  - [Papadou0710](https://github.com/Papadou0710)
  - [Louis Yang](https://github.com/louiscyang)
+ - [Harvey Specter](https://github.com/harvey)
  - [spicyboi](https://github.com/spicyboi)
  - [Rahultheman12](https://github.com/Rahultheman12)
  - [eyeofkenku](https://github.com/eyeofkenku)
