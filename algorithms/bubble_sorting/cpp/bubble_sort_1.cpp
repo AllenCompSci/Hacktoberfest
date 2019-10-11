@@ -1,4 +1,7 @@
 #include<iostream>
+#include<bits.stdc++.h>
+
+// Just added a header file
 using namespace std;
 
 //global variables for ease of use
