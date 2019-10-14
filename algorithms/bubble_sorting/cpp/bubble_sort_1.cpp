@@ -1,43 +1,44 @@
-#include<iostream>
-using namespace std;
+// C++ program for implementation of Bubble sort 
+#include <bits/stdc++.h> 
+using namespace std; 
 
-//global variables for ease of use
-long long int array[1000],n,temp;
+void swap(int *xp, int *yp) 
+{ 
+	int temp = *xp; 
+	*xp = *yp; 
+	*yp = temp; 
+} 
 
-//function for bubble sort
-void bubble_sort()
-{
+// A function to implement bubble sort 
+void bubbleSort(int arr[], int n) 
+{ 
+	int i, j; 
+	for (i = 0; i < n-1; i++)	 
+	
+	// Last i elements are already in place 
+	for (j = 0; j < n-i-1; j++) 
+		if (arr[j] > arr[j+1]) 
+			swap(&arr[j], &arr[j+1]); 
+} 
 
-	for(register long long int i=0;i<n;i++)
-	{
-		for(register long long int j=0;j<n-i-1;j++)
-		{
-			if(array[j]>array[j+1])
-			{
-				temp=array[j];
-				array[j]=array[j+1];
-				array[j+1]=temp;
-			}
-		}	
-	}
-}
-int main()
-{
-	// Enter the number of elements 
-	cin>>n;
+/* Function to print an array */
+void printArray(int arr[], int size) 
+{ 
+	int i; 
+	for (i = 0; i < size; i++) 
+		cout << arr[i] << " "; 
+	cout << endl; 
+} 
 
-	//Entering the elements
-	for(register long long int i=0;i<n;i++)
-	{
-		cin>>array[i];
-	}
+// Driver code 
+int main() 
+{ 
+	int arr[] = {64, 34, 25, 12, 22, 11, 90}; 
+	int n = sizeof(arr)/sizeof(arr[0]); 
+	bubbleSort(arr, n); 
+	cout<<"Sorted array: \n"; 
+	printArray(arr, n); 
+	return 0; 
+} 
 
-	//buuble sort
-	bubble_sort();
 
-	//Sorted order
-	for(register long long int i=0;i<n;i++)
-	{
-		cout<<array[i]<<" ";
-	}
-}
