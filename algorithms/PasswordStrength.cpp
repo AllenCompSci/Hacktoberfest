@@ -47,17 +47,17 @@ class PasswordStrength
               }
 
               if(hasLetter && hasDigit && hasUpperCase && hasLowerCase && hasMuchLetter)
-                    cout<<"very strong";
+                    cout<<"Very Strong\n";
               else if(hasLetter && hasDigit && (hasUpperCase || hasLowerCase) && hasMuchLetter)
-                    cout<<"strong";
+                    cout<<"Strong\n";
               else if(hasLetter && hasDigit && hasUpperCase==false && hasLowerCase==false && hasMuchLetter)
-                    cout<<"good";
+                    cout<<"Good\n";
               else if(hasLetter && hasDigit && password.length()==false && hasUpperCase==false && hasLowerCase==false)
-                    cout<<"weak";
+                    cout<<"Weak\n";
               else if((hasLetter==false && hasDigit) || (hasLetter && hasDigit==false) && password.length()==false && hasUpperCase==false && hasLowerCase==false)
-                    cout<<"very weak";
+                    cout<<"Very Weak\n";
               else
-                    cout<<"weak";
+                    cout<<"Weak\n";
 
 
         }
@@ -69,4 +69,5 @@ int main()
     PasswordStrength pass;
     cin>>pass;
     pass.strength();
+    return 0;
 }
