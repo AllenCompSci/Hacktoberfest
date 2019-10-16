@@ -35,6 +35,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ### __Census__
 
  - [AllenCompSci](https://github.com/AllenCompSci)
+ - [JovianDsouza](https://github.com/Jovian-Dsouza)
  - [Traderain](https://github.com/Traderain)
  - [Shivam1897](https://github.com/shivam1897)
  - [Mr. Hudson](https://github.com/theshrewedshrew)
