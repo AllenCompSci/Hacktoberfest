@@ -203,7 +203,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [joycemaaa](https://github.com/joycemaaa)
  - [KaiUsesThis](https://github.com/KaiUsesThis)
  - [Roberto Andres Alvarez](https://github.com/robertoandres21)
- [David Yang]](https://github.com/davidyangdev)
+  - [David Yang]](https://github.com/davidyangdev)
  - [Pradeep Kumar](https://github.com/pradeepisro)
  - [V. Narayan](https://github.com/ShootingStar0)
  - [Vinod](https://github.com/vinodnadarthegreat)
