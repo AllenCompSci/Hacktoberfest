@@ -1,0 +1,29 @@
+void Queue::enQueue(int value) 
+{ 
+    if ((front == 0 && rear == size-1) || 
+            (rear == (front-1)%(size-1))) 
+    { 
+        printf("\nQueue is Full"); 
+        return; 
+    } 
+  
+    else if (front == -1) /* Insert First Element */
+    { 
+        front = rear = 0; 
+        arr[rear] = value; 
+    } 
+  
+    else if (rear == size-1 && front != 0) 
+    { 
+        rear = 0; 
+        arr[rear] = value; 
+    } 
+  
+    else
+    { 
+        rear++; 
+        arr[rear] = value; 
+    } 
+} 
+  
+  
