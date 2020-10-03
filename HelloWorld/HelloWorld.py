@@ -42,9 +42,9 @@ _Fergalicious_ = ["Four tres two uno", "", "[Will.i.am:] : Listen up y'all 'caus
 "To the D to the E to the to the to the to the to the" ]
 
 
-_USERNAME_ = ["RogueNinja410", "Gainz101", "KyleAustin36", "MJHudson618, ""Maze-Camel", "bingood4ever", "JustinV10", "zachdogg", "Abhi1458"] 
+_USERNAME_ = ["RogueNinja410", "Gainz101", "KyleAustin36", "MJHudson618, ""Maze-Camel", "bingood4ever", "JustinV10", "zachdogg", "Abhi1458", "decodedpython"] 
 
-_DISPLAY_ = ["Teh Rogue", "Gainz101", "KyleAustin36", "MJHudson618", "Maaz Kamal", "bingood4ever", "Justin Van Nimwegen", "Zachdogg", "Abhi1458"]
+_DISPLAY_ = ["Teh Rogue", "Gainz101", "KyleAustin36", "MJHudson618", "Maaz Kamal", "bingood4ever", "Justin Van Nimwegen", "Zachdogg", "Abhi1458", "devil"]
 
 
 
