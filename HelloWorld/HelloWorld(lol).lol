@@ -2,5 +2,5 @@
 // https://en.wikipedia.org/wiki/LOLCODE
 HAI 1.2
 CAN HAS STDIO?
-VISIBLE "HAI WORLD!"
+VISIBLE "HELLO WORLD!"
 KTHXBYE
