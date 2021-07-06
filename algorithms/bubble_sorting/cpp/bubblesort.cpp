@@ -6,7 +6,7 @@ void main()
 {
 	clrscr();
 	int n, i, arr[50], j, temp;
-	cout<<"Enter total number of elements :";
+	cout<<"Enter total number of elements (<=50) :";
 	cin>>n;
 	cout<<"Enter "<<n<<" numbers :";
 	for(i=0; i<n; i++)

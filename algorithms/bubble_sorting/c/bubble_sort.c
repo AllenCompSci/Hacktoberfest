@@ -4,8 +4,14 @@
   2. swap the element with the first smaller element it encounters.
   3. every traversal pushes the largest element towards the end.
 */
+  # include <stdio.h>
   
-
+void swap ( int &a , int &b )
+{
+    int t = a ;
+    a = b ; 
+    b = t ;
+}
 
 
 void bubbleSort(int arr[], int n)
@@ -21,8 +27,7 @@ void bubbleSort(int arr[], int n)
 
 int main()
 {
-int i,j,k;
-int a[5];
+int i , a[5];
 for(i=0;i<5;i++)
 scanf("%d",&a[i]);
 bubblesort(a,5);
